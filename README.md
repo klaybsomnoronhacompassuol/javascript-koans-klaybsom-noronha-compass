@@ -1,4 +1,4 @@
-# 🚀 JavaScript Koans - Compass
+# 🚀 JavaScript Koans
 
 ## 👨‍💻 Sobre o Projeto
 
